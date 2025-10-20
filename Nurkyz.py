@@ -1,0 +1,1 @@
+print('Word car exeple:bmw')
